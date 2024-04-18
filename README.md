@@ -2,6 +2,8 @@
 
 Swasthya Share revolutionizes hospital operations by leveraging patient-doctor interaction audio inputs to generate comprehensive admission notes and treatment plans. This innovative approach enhances efficiency and fosters seamless communication among healthcare professionals, ultimately optimizing patient care.
 
+![1,000+ PDFs Either Malicious or Benign (6)](https://github.com/chirag-xcvii/CyberSec-Malware-Detection/assets/146003422/eebb8268-4eda-4c2f-971d-4f19152c04eb)
+
 # Problems Breakdown
 
 Swasthya Share addresses several key challenges in the healthcare industry:
